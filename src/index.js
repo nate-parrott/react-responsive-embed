@@ -1,5 +1,5 @@
 const React = require('react')
-const PropTypes = React.PropTypes
+const PropTypes = require('prop-types');
 const div = React.createElement.bind(React, 'div')
 const iframe = React.createElement.bind(React, 'iframe')
 

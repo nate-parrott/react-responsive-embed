@@ -17,7 +17,8 @@
     "babel-preset-env": "^1.1.8",
     "react-addons-test-utils": "^15.0",
     "react-dom": "^15.0",
-    "static-react": "^3.2.0"
+    "static-react": "^3.2.0",
+    "prop-types": "^15.5.10"
   },
   "peerDependencies": {
     "react": "^15.0"
@@ -43,5 +44,8 @@
   "bugs": {
     "url": "https://github.com/tableflip/react-responsive-embed/issues"
   },
-  "homepage": "https://github.com/tableflip/react-responsive-embed#readme"
+  "homepage": "https://github.com/tableflip/react-responsive-embed#readme",
+  "dependencies": {
+    "prop-types": "^15.5.10"
+  }
 }
